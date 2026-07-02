@@ -141,10 +141,7 @@ This project demonstrates proficiency in:
 ## 👨‍💻 Author
 
 **Prithwish Parial**
-
-- MCA Student
 - SQL & Data Analytics Enthusiast
-- GitHub: https://github.com/PrithwishParial
 ````
 
 This README is suitable for a **GitHub portfolio project** and follows a professional format commonly used by data analysts and SQL developers.
